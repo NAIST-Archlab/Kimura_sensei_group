@@ -1,2 +1,1 @@
-# Kimura_sensei_group
-Be careful not to upload confidential files (espesially .sp).
+# mt0_2_txt (10 classfication)
